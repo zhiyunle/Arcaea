@@ -1,0 +1,209 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* 容器 */
+.container{
+    width: 100%;
+    height: auto;
+}
+
+
+
+.daohanlan {
+    background-color: #000000;
+    opacity: 0.9;
+    position: fixed;
+    z-index: 5;
+    margin-top: 0%;
+    width: 100%;
+    height: 8%;
+
+}
+
+.daohanlanp {
+    margin-left: 6%;
+    font-size: 2vw;
+    margin-right: -2%;
+    width: 13%;
+    text-align: center;
+    color: white;
+    font-family: 黑体;
+    line-height: 8vh;
+    transition: 2s ease;
+    text-shadow: 2px 2px 4px #000000;
+    transform: translateX(50px);
+    text-decoration: none;
+    display: inline-block;
+}
+.daohanlanp:hover {
+    background-color: #525456;
+}
+.ship {
+    width: 100%;
+    top: 8%;
+    z-index: -5;
+    position: fixed;
+    position: absolute;
+    
+}
+
+.loge {
+    width: 43%;
+    margin-left: -4%;
+    z-index: 1;
+    max-width: 100%;
+    top: 14%;
+    position: fixed;
+    position: absolute;
+    transition: .4s ease;
+}
+.loge:hover {
+    transform: scale(0.9);
+}
+
+
+.renw {
+    object-fit: cover;
+    margin-left:46%;
+    width: 10%;
+    margin-top: 62%;
+    margin-right: 10%;
+    z-index: 1;
+    position: fixed;
+    position: absolute;
+}
+.beij1 {
+    margin-top: 60%;
+    z-index: -5;
+    position: fixed;
+    position: absolute;
+    width: 100%;
+    object-fit: cover;
+    height: 56vw;
+}
+.beij2 {
+    margin-top: 105%;
+    z-index: -5;
+    position: fixed;
+    position: absolute;
+    width: 100%;
+    object-fit: cover;
+    height: 56vw;
+}
+.jueshe {
+    position: absolute;
+    margin-left: 19%;
+    margin-top: 68%;
+    width: 60%;
+    height: auto !important;
+    background-color: rgba(75,75,75,0.31);
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    z-index: 4;
+}
+.jueshe1 {
+    position: absolute;
+    margin-left: 19%;
+    margin-top: 105%;
+    width: 60%;
+    height: auto !important;
+    background-color: rgba(75,75,75,0.31);
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    z-index: 4;
+}
+.containerimg{
+    width: 50%;
+}
+.containerimg img{
+    width: 100%;
+}
+.guang {
+    margin-top: 1%;
+    margin-right: 60%;
+    width: 40%;
+    transition: .3s ease;
+}
+.p1 {
+    color: white;
+    font-family: '黑体';
+    top: 4%;
+    left: 34%;
+    font-size: 3vw;
+    position: absolute;
+}
+.p11 {
+    color: white;
+    font-family: '黑体';
+    top: 18%;
+    left: 29%;
+    font-size: 2vw;
+    position: absolute;
+}
+.p2 {
+    color: white;
+    font-family: '黑体';
+    top: 12%;
+    left: -48%;
+    font-size: 3vw;
+    position: absolute;
+}
+.p22 {
+    color: white;
+    font-family: '黑体';
+    top: 26%;
+    left: -51%;
+    font-size: 2vw;
+    position: absolute;
+}
+.pp {
+    color: white;
+    font-family: '黑体';
+    top: -22%;
+    left: -141%;
+    font-size: 2vw;
+    position: absolute;
+    text-shadow: 2px 2px 4px #000000;
+    /* 竖排文字 */
+    writing-mode: vertical-rl;
+}
+.pp1 {
+    color: white;
+    font-family: '黑体';
+    top: -61%;
+    left: 134%;
+    font-size: 2vw;
+    position: absolute;
+    text-shadow: 2px 2px 4px #000000;
+    /* 竖排文字 */
+    writing-mode: vertical-rl;
+}
+.pp2 {
+    color: white;
+    font-family: '黑体';
+    top: 17%;
+    right: 232%;
+    font-size: 2vw;
+    position: absolute;
+    text-shadow: 2px 2px 4px #000000;
+    /* 竖排文字 */
+    writing-mode: vertical-rl;
+}
+.guang:hover {
+    transform:scale(1.2);
+}
+.duili {
+    transition: .3s ease;
+    margin-top: 1%;
+    margin-left: 119%;
+    width: 40%;
+}
+.duili:hover {
+    transform: scale(1.2);
+}
