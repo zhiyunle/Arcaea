@@ -1,0 +1,126 @@
+.box-g {
+    position: absolute;
+    margin-top: 160%;
+    height: 100%;
+    width: 100%;
+}
+.box-g2 {
+    position: absolute;
+    height: 100%;
+    margin-top: 186%;
+    width: 100%;
+
+}
+.box-g3 {
+    position: absolute;
+    height: 100%;
+    margin-top: 215%;
+    width: 100%;
+
+}
+.box-g4 {
+    position: absolute;
+    margin-top: 231%;
+    height: 60%;
+    width: 100%;
+}
+.box-g5 {
+    position: absolute;
+    margin-top: 203%;
+    width: 100%;
+}
+.g1 {
+    width: 12%;
+    transition:  4s ease;
+    transform-style: preserve-3d;
+    margin-left: 44%;
+}
+.g1:hover {
+    transform: rotate3d(0, 1, 0, 1turn);
+    box-shadow: 2px 2px 2px 2px rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+
+}
+.g2 {
+    width: 12%;
+    margin: 0 auto; 
+    transition: all 4s ease;
+    transform-style: preserve-3d;
+    perspective: 500px;
+    margin-left: 20%;
+    margin-right: 34%;
+}
+
+.g2:hover {
+    transform: rotate3d(0, 1, 0, -1turn);
+    box-shadow: 2px 2px 2px 2px rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+}
+.g3 {
+    width: 12%;
+    margin: 0 auto; 
+    transition: all 4s ease;
+    transform-style: preserve-3d;
+    perspective: 500px;
+    margin-right: 20%;
+    
+}
+.g3:hover {
+    transform: rotate3d(0, 1, 0, -1turn);
+    box-shadow: 2px 2px 2px 2px rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+}
+.g4 {
+    width: 12%;
+    margin: 0 auto; 
+    transition: all 5s ease;
+    transform-style: preserve-3d;
+    perspective: 500px;
+    margin-left: 20%;
+    margin-right: 34%;
+    
+    
+}
+.g4:hover {
+    transform: rotate3d(0, 1, 0, 1turn);
+    box-shadow: 2px 2px 2px 2px rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+}
+.g5 {
+    width: 12%;
+    margin: 0 auto; 
+    transition: all 4s ease;
+    transform-style: preserve-3d;
+    perspective: 500px;
+    margin-right: 20%;
+    
+}
+.g5:hover {
+    transform: rotate3d(0, 1, 0, 1turn);
+    box-shadow: 2px 2px 2px 2px rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+}
+.g6 {
+    width: 12%;
+    transition: all 4s ease;
+    transform-style: preserve-3d;
+    margin-left: 44%;
+    
+}
+.g6:hover {
+    transform: rotate3d(0, 1, 0, -1turn);
+    box-shadow: 2px 2px 2px 2px rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+}
+.g7 {
+    width: 12%;
+    transition: all 4s ease;
+    transform-style: preserve-3d;
+    margin-left: 44%;
+    
+}
+.g7:hover {
+    transform: rotate3d(0, 1, 0, -1turn);
+    box-shadow: 2px 2px 2px 2px rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+}
