@@ -1,0 +1,105 @@
+
+.qq {
+display: inline-block;
+margin-top: 264%;
+}
+.gequ1 {
+    margin-left: 10%;
+    margin-top: -1%;
+}
+.box-m {
+    margin-left: -60%;
+}
+.geql {
+    width: 15%;
+    transition: all 15s ease;
+    border-radius: 50%;
+    left: 5%;
+    position: absolute;
+
+
+}
+.geql:hover {
+    transform: rotate(2turn);
+}
+.mp31 {
+    margin-top: 15%;
+    width: 25vw;
+    margin-left: 0%;
+    position: absolute;
+} 
+
+.gequ2 {
+    margin-left: 10%;
+    margin-top: -1%;
+
+}
+.geql2 {
+    width: 15%;
+    transition: all 15s ease;
+    border-radius: 50%;
+    left: 30%;
+    position: absolute;
+
+}
+.geql2:hover {
+    transform: rotate(2turn);
+}
+.mp32 {
+    margin-top: 15%;
+    width: 25vw;
+    margin-left: 25%;
+    position: absolute;
+} 
+
+
+.gequ3 {
+    margin-left: 10%;
+    margin-top: -1%;
+
+}
+.geql3 {
+    width: 15%;
+    transition: all 15s ease;
+    border-radius: 50%;
+    left: 55%;
+    position: absolute;
+
+}
+.geql3:hover {
+    transform: rotate(2turn);
+}
+.mp33 {
+    margin-top: 15%;
+    width: 25vw;
+    margin-left: 50%;
+    position: absolute;
+} 
+
+.gequ4 {
+    margin-left: 10%;
+    margin-top: -1%;
+
+}
+.geql4 {
+    width: 15%;
+    transition: all 15s ease;
+    border-radius: 50%;
+    left: 79%;
+    position: absolute;
+
+}
+.geql4:hover {
+    transform: rotate(2turn);
+}
+.mp34 {
+    margin-top: 15%;
+    width: 25vw;
+    margin-left: 75%;
+    position: absolute;
+} 
+
+
+
+
+
